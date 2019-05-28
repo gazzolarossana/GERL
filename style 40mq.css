@@ -6,9 +6,12 @@
 }
 
 h1 {
-  color: blue
+  color:green
 }
 
+h2{
+  color: pink
+}
 img {
   width:300px;
   border: 1px solid black;
