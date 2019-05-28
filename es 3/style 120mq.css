@@ -4,13 +4,14 @@
 #first_div {
   background-color: green;
   margin: 50px
-  
+
 }
 
 h3 {
 }
 
 img {
+  margin:10px
   width:300px;
   border: 1px solid black;
 }
