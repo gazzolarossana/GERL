@@ -1,0 +1,17 @@
+<html>
+
+ <head>
+   <link href= "style 40mq.css"
+         rel="stylesheet"></links>
+   <meta charset="utf-8">
+   <title>Abitazione di 40mq</title>
+ </head>
+
+  <body>s
+    <h1><strong>Pianta</strong></h1>
+    <div><img src=""></div>
+    <p><em> La casa è costituita da una zona living che comprende piccola cucina e salotto di 19 mq, un bagno di 7 mq e una camera matrimoniale di 14 mq </em></p>
+    <h1><strong>Sezione</strong></h1>
+    <p><em>Nella soggiorno sono presneti un divano un tavolino da caffè, untavolo da franzo con sedie annesse. </em></p>
+
+</html>
